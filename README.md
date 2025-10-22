@@ -63,7 +63,7 @@
 
 ###
 
-<h3 align="left">Machine Learning Independent Researcher | Stock Price Prediction | Commodity / Crypto Trader | Automation with AI</h3>
+<h3 align="left">Machine Learning Independent Researcher | Humanist |Stock Price Prediction | Commodity / Crypto Trader | Automation with AI</h3>
 
 ###
 
@@ -81,8 +81,10 @@
 
 <br clear="both">
 
+<p align="center">Papers Published</p>
+
 <p align="center">Achilles, Neural Network to Predict the Gold Vs US Dollar<br><br>https://arxiv.org/pdf/2410.21291</p>
 <p align="center">An analytical framework for real-time gold trading using sentiment and time-series forecasting<br><br>https://www.sciencedirect.com/science/article/pii/S277266222500089X?via%3Dihub</p>
-<p align="center">Benchmarking Large Language Models on USMLE: Evaluating ChatGPT, DeepSeek, Grok, and Qwen in Clinical Reasoning and Medical Licensing Scenarios<br><br>https://arxiv.org/pdf/2410.21291](https://assets-eu.researchsquare.com/files/rs-6651111/v1_covered_a44764a3-63b8-4aa1-a025-77df2cc22e98.pdf?c=1749711124</p>
+<p align="center">Benchmarking Large Language Models on USMLE: Evaluating ChatGPT, DeepSeek, Grok, and Qwen in Clinical Reasoning and Medical Licensing Scenarios<br><br>https://assets-eu.researchsquare.com/files/rs-6651111/v1_covered_a44764a3-63b8-4aa1-a025-77df2cc22e98.pdf?c=1749711124</p>
 
 ###
